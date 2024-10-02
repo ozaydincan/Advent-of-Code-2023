@@ -1,0 +1,6 @@
+**/Cargo.lock
+**/target/
+**/benches/
+**/debug/
+**/test-env/debug/
+**/test-env/
